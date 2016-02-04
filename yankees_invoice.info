@@ -1,9 +1,9 @@
-name = mymodule2
+name = New York Yankees Invoice Module
 description = test proof of concept module
 package = public-action
 version = VERSION
 core = 7.x
-files[] = mymodule.module
+files[] = yankees_invoice.module
 
 
 ; Information added by drupal.org packaging script on 2010-03-21
