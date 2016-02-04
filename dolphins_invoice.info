@@ -1,9 +1,9 @@
-name = mymodule
+name = Miami Dolphins Invoice Module
 description = test proof of concept module
 package = public-action
 version = VERSION
 core = 7.x
-files[] = mymodule.module
+files[] = dolphins_invoice.module
 
 
 ; Information added by drupal.org packaging script on 2010-03-21
